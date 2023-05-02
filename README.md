@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/LongJumpingCrab/badges/small)](https://www.codewars.com/users/LongJumpingCrab)
+[![codewars](https://www.codewars.com/users/longjumpingcrab/badges/small)](https://www.codewars.com/users/longjumpingcrab)
 
 <!--
 **VASENKOVIVAN/vasenkovivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
