@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 ![Codewars](https://github.r2v.ch/codewars?user=longjumpingcrab&stroke=%23BB432C)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=
-vasenkovivan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vasenkovivan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
